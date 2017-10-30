@@ -4,9 +4,9 @@ Here you'll find tickets to request video or photography work as well as tools t
 
 ## How we work
 Details coming soon here.
-If you have an urgent need, please note this is an urgent request on the ticket, send us a slack message #videoteam and a team member will be assigned to the issue immediattly. 
-If you have an idea or plan that is not urgent, please give us as much information as possible and a team member will followup when we have the bandwidth available.
-If you need a pull request, please create a new ticket and followup with a slack message at #videoteam.
+- If you have an urgent need, please note this is an urgent request on the ticket, send us a slack message #videoteam and a team member will be assigned to the issue immediattly. 
+- If you have an idea or plan that is not urgent, please give us as much information as possible and a team member will followup when we have the bandwidth available.
+- If you need a pull request, please create a new ticket and followup with a slack message at #videoteam.
 
 ## Updates
 To find out what is in progress: link here.
