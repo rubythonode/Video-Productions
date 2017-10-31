@@ -1,5 +1,5 @@
-# Welcome to Mapbox Video Production Department
-This is the home of the Mapbox video prodution team. 
+# Welcome to the Mapbox Video Production Department
+This is the home of the Mapbox video production team. 
 Here you'll find how to request video or photography work, find video files, as well as tools to help us help you faster and more efficiently.
 
 ## How we work
