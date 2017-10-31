@@ -10,7 +10,6 @@ We are typically producing a number of videos at one time based on priority and 
 
 ## Progress
 To find out what is in progress we are on waffle at: https://waffle.io/mapbox/Video-Productions
-CODES:
 - **Backlog:** We either don't have the bandwidth to take this on or it's not ready and the request is incomplete.
 - **Ready:** The work is understood and being prioritized.
 - **This Week:** We plan to get to this this week.
